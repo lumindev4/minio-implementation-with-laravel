@@ -28,14 +28,14 @@
 
 
 ## install a new package
- # if you see -S3 Flysystem adapter is still NOT installed (or not loaded correctly).
+ ## if you see -S3 Flysystem adapter is still NOT installed (or not loaded correctly).
 
 ```
     composer require league/flysystem-aws-s3-v3:^3.0
 ```
 
 
-### Min IO Local setup
+# Min IO Local setup
  #for mac plesae run this command to install minio into your pc
     ```
         brew install minio/stable/minio
